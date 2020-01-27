@@ -28,6 +28,10 @@ export default [
         text: '中文 (zh)'
     },
     {
+        value: 'viwiki',
+        text: 'Tiếng Việt (vi)'
+    },
+    {
         value: 'trwiki',
         text: 'Turkish (tr)'
     },
